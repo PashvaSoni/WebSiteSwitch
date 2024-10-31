@@ -1,3 +1,6 @@
 {
-  "HeraldAutomation":true
+  "HeraldAutomation":{
+    "HPCL_Automation":true,
+    "IOCL_Automation":true
+  }
 }
